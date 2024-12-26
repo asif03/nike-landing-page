@@ -2,11 +2,11 @@ import './App.css'
 
 function App() {
   return (
-      <>
-          <main className="container">
-Asif
-          </main>
-      </>
+    <>
+      <main>
+        Nav
+      </main>
+    </>
   )
 }
 
